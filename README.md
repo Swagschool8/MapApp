@@ -67,3 +67,11 @@ This app is supposed to track your location on a visual map
 
 ## Wireframes
 https://www.figma.com/proto/u4IEU3zK9n1cqBPtOzuhjS/Untitled?node-id=1%3A2&scaling=scale-down
+
+## Models
+![](https://i.imgur.com/sJbZBgZ.jpg)
+
+
+
+
+
