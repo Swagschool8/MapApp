@@ -72,6 +72,19 @@ https://www.figma.com/proto/u4IEU3zK9n1cqBPtOzuhjS/Untitled?node-id=1%3A2&scalin
 ![](https://i.imgur.com/sJbZBgZ.jpg)
 
 
+## Progress
+gif of our starting code
+https://giphy.com/gifs/appsquad-WQxExLQsdh4BTpsY9z
+
+## Sprint
+our objective for next week it so continue to work on our code
+
+
+
+
+
+
+
 
 
 
