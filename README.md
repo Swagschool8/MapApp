@@ -77,7 +77,25 @@ gif of our starting code
 https://giphy.com/gifs/appsquad-WQxExLQsdh4BTpsY9z
 
 ## Sprint
-our objective for next week it so continue to work on our code
+our objective for next week is so continue to work on our code
+
+## Sprint
+continue to work on our UI design for our map app
+also our goal for this week is to allow users to visualize there location
+
+## User Stories
+
+The following **required** functionality is completed:
+-[x] make sure users can access the app
+- [x ] User can see map
+  - [ x] User can click and zoom on street name
+  
+  ## Gif on progess
+  https://giphy.com/gifs/map-app-Q81Rv7rymNIZtqZ9In
+  
+  
+  
+  
 
 
 
