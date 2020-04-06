@@ -94,6 +94,23 @@ The following **required** functionality is completed:
   https://giphy.com/gifs/map-app-Q81Rv7rymNIZtqZ9In
   
   
+  ## Sprint
+  Test our code for any errors
+  Make sure the sizeof fonts on is presentable size/regular font
+  
+   ## User Stories
+
+The following **required** functionality is completed:
+-[x] testing for bugs 
+- [x ] Improve UI
+  - [ x] Continously testing
+  
+  ## Gif on progess
+  
+  
+  
+  
+  
   
   
 
