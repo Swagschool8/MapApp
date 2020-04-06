@@ -106,7 +106,7 @@ The following **required** functionality is completed:
   - [ x] Continously testing
   
   ## Gif on progess
-  
+  https://giphy.com/gifs/mapapp2-gid5UjPZvAe9K0pG9r
   
   
   
