@@ -119,6 +119,9 @@ The following **required** functionality is completed:
 - [x ] Improve emulator
   - [ x] Update any functions that will improve the code 
   
+  ## Gif on progress
+  https://giphy.com/gifs/mapapp-RJKTD7PBD2zDfBGnJv
+  
   
   
   
