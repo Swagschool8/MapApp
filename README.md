@@ -109,6 +109,19 @@ The following **required** functionality is completed:
   https://giphy.com/gifs/mapapp2-gid5UjPZvAe9K0pG9r
   
   
+  ## Sprint
+  Finalizing code and making sure our project runs correctly 
+  
+  # User Stories
+
+The following **required** functionality is completed:
+-[x] Making sure API is running properly so that functions of the app is visible
+- [x ] Improve emulator
+  - [ x] Update any functions that will improve the code 
+  
+  
+  
+  
   
   
   
